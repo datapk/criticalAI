@@ -1,6 +1,7 @@
 ## UCHRI Critical Machine Learning Studies
 
 The Critical Machine Learning Studies working group is a collection of researchers across the University of California system.
+
 This working group aims to articulate, from within the humanities, a technically specific
 and situated paradigm for engaging machine learning. Academic work on artificial intelligence
 seems now to be omnipresent, precisely because AI itself is such a rapidly developing field of
@@ -13,4 +14,4 @@ technique. We aim to leverage, in a collaborative and interdisciplinary way, the
 experience of UC faculty to design new approaches to describe, and critique in detail,
 contemporary machine learning systems, focusing on their individual (“ML studies”), rather
 than collective (“AI Studies”), properties, and their architecture-specific, rather than
-model-specific, biases and shortcomings
+model-specific, biases and shortcomings.
